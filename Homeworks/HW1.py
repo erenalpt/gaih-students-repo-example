@@ -6,7 +6,6 @@ rndPrmMatrix = [[random.choice([x for x in range(2, 1000) if not [t for t in ran
 # for sympy
 # rndPrmMatrix = [[randprime(0, 100) for x in range(3)] for x in range(3)]
 
-
 print(rndPrmMatrix)
 
 #for i in range(3):
