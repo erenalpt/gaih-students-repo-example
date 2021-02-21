@@ -1,4 +1,4 @@
-class Cook():
+class Cook:
     def __init__(self, time, cal, material):
         self.time = time
         self.cal = cal
